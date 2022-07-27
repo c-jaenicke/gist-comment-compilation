@@ -1,4 +1,4 @@
-# Gist Automation Tool
+# Gist Comment Compilation Automation
 
 Uses a codeword at the top of the comment to identify what should be added, and limits the addition to comments by authorized users.
 
